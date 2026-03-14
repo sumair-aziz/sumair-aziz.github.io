@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sumair Aziz"
-  pronouns         : "He/Him"  
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "University of Canberra"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/sumair-aziz/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
